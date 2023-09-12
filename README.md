@@ -1,6 +1,6 @@
 # TERRO'S REAL ESTATE AGENCY
 ## Description
-To analyze the magnitude of each variable from the given dataset which imapcts the price of the house given the locality
+### To analyze the magnitude of each variable from the given dataset which imapcts the price of the house given the locality
 ## Table of contents
 ### 1.Summary statistics
 ### 2.Histogram of the avg price  variable
@@ -11,4 +11,4 @@ To analyze the magnitude of each variable from the given dataset which imapcts t
 ### 7.Regression model with all variables
 ### 8.Regression model with significant variables
 ## Skills and Tools Covered
-Exploratory Data Analysis,Visualization,Regression
+### Exploratory Data Analysis,Visualization,Regression
